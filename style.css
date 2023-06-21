@@ -1,0 +1,47 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #04151f;
+}
+h1 {
+    color: #efd6ac;
+}
+p {
+    color: #efd6ac;
+}
+h2 {
+    color: #c44900;
+}
+
+.nav {
+    font-size: 2rem;
+}
+.nav-link {
+    color: #C2DEDC;
+}
+.active {
+    color: coral;
+}
+.nametop {
+    color: #c44900;
+}
+.blerb {
+    background-color: aqua;
+}
+.emailget {
+    color: #efd6ac;
+}
+.butthole {
+    font-size: 40px;
+    margin-top: 1.2em;
+    background-color: #c44900;
+    color: #efd6ac;
+}
+.profilepic {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footeo {
+    color: #efd6ac;
+}
